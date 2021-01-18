@@ -1,4 +1,4 @@
-
+void input_hist()
 {
 	TH1F *hist1 = new TH1F ("hist1", "Grade Distribution", 8, 1, 9);
 
